@@ -6,3 +6,6 @@ Not every part of these codes is developed by me. Zone segmentation code was mai
 Over the 4 years (2014-2018), a number papers have been published in peer-reviewed venues from our group. This github page contains some of the implemented codes of our earlier works. This code can be used for the research purpose only. 
 
 Also, we want to provide a comprehensive list of papers that have been appeared in the literature in context of Indic Script from 2014 onwards based on our works. 
+
+
+## Word Recognition and Spooting:
