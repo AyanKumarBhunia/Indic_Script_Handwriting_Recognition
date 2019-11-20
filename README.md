@@ -32,5 +32,5 @@ Also, we want to provide a comprehensive list of papers that have been appeared 
 
 1) Bhunia, Ayan Kumar, Subham Mukherjee, Aneeshan Sain, Ankan Kumar Bhunia, Partha Pratim Roy, and Umapada Pal. "Indic Handwritten Script Identification using Offline-Online multi-modal Deep Network." Information Fusion (2019). 
 
-2) 
+2) Bhunia, Ankan Kumar, Aishik Konwer, Ayan Kumar Bhunia, Abir Bhowmick, Partha P. Roy, and Umapada Pal. "Script identification in natural scene image and video frames using an attention based Convolutional-LSTM network." Pattern Recognition 85 (2019): 172-184.
 
