@@ -8,4 +8,4 @@ Over the 4 years (2014-2018), a number papers have been published in peer-review
 Also, we want to provide a comprehensive list of papers that have been appeared in the literature in context of Indic Script from 2014 onwards based on our works. 
 
 
-# Word Recognition and Spooting:
+## Word Recognition and Spotting:
