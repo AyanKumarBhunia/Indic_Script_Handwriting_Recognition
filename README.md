@@ -1,4 +1,4 @@
-# Handwriting Recognition and Spotting in Indic Scripts
+# Handwriting Recognition and Spotting in Indic (Bengali and Devanagari) Scripts
 This github profile contains code and recent papers that have been appeared in the field of Handwriting Recognition, Handwriting Spotting in context of Indic Scripts. 
 
 Not every part of these codes is developed by me. Zone segmentation code was mainly developed by [Prasenjit Dey](https://scholar.google.co.in/citations?user=SOtY4GUAAAAJ&hl=en). And the central idea of zone segmentation came from [Prof. Partha Pratim Roy](https://scholar.google.co.in/citations?user=moDpyKkAAAAJ&hl=en). Also, I would like to give credit [Ayan Das](https://scholar.google.co.in/citations?user=GsoQVuoAAAAJ&hl=en) who was also deeply involved in first few of the works. Ina addition, [Prof.Umapada Pal](https://www.isical.ac.in/~umapada/) was also involved in these works.  
